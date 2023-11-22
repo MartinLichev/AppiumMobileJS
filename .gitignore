@@ -1,7 +1,9 @@
 # Node modules
 node_modules
 
-# Allure
-allure-report
+# Allure Results
 allure-results
+
+# Allure Report
+allure-report
 
